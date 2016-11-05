@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<enviNFe xmlns="http://www.portalfiscal.inf.br/nfe">
+  <products>
+    <product>
+      <name>n5</name>
+      <partnumber>p5</partnumber>
+    </product>
+    <product>
+      <name>n3</name>
+      <partnumber>p3</partnumber>
+    </product>
+    <product>
+      <name>n1</name>
+      <partnumber>p1</partnumber>
+    </product>
+  </products>
+</enviNFe>
